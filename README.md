@@ -55,6 +55,3 @@ The application uses gTTS for the text-to-speech conversion and googletrans for 
 * Built with the help of the gTTS and googletrans libraries.  
 * Designed to run seamlessly within the Google Colab environment.
 
-## **License**
-
-\[Replace this section with the license information for your project, e.g., MIT, Apache 2.0, etc.\]
